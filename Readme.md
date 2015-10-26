@@ -87,4 +87,11 @@ Now start Git and GitHub
 	Change file extension to: All Files
 	Filename is: ReadMe.md
 11. Push changes to dev repository:
+	Copy the repository url from GitHub on the right side:
+	: https://github.com/DevinSmoot/COMSC1033_Fun_With_Functions.git
+	Push ReadMe.md to GitHub (remote) repository:
+	: git add .
+	: git commit -m "Added ReadMe.md to repository"
+	Set the remote branch to dev
+	: git push --set-upstream origin dev
 	
