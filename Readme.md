@@ -17,6 +17,7 @@
 
 
 Now start Git and GitHub
+
 1. Open a command prompt:
 	: Start->search for cmd->Press Enter.
 2. Go to your project folder:
@@ -79,3 +80,11 @@ Now start Git and GitHub
 	: git checkout -b dev
 	E:\Documents\School\Fall 2015\Computer Science 1\Workspace\COMSC1033_Fun_With_Functions_Project>git checkout -b dev
 	Switched to a new branch 'dev'
+10. Save markdown ReadMe.md file:
+	: File->Save As
+	Change directory to project folder
+	: E:\Documents\School\Fall 2015\Computer Science 1\Workspace\COMSC1033_Fun_With_Functions_Project
+	Change file extension to: All Files
+	Filename is: ReadMe.md
+11. Push changes to dev repository:
+	
